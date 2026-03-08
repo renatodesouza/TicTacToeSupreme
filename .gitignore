@@ -1,5 +1,8 @@
 *.iml
 .gradle
+bin/
+gen/
+.idea/
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -13,3 +16,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Arquivos Locais e Segredos
+
+Thumbs.db
+*.jks
+*.keystore
+
+# Arquivos de Captura e Log
+*.log
+
