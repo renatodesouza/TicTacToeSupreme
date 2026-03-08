@@ -1,0 +1,29 @@
+# Arquivos de Build
+build/
+.gradle/
+bin/
+gen/
+
+# Configurações do Android Studio / IntelliJ
+.idea/workspace.xml
+.idea/libraries/
+.idea/shelf/
+.idea/assetWizardSettings.xml
+.idea/navEditor.xml
+*.iml
+*.iws
+
+# Arquivos Locais e Segredos
+local.properties
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore
+
+# Arquivos de Captura e Log
+captures/
+*.log
+
+# Native build (se você usar C++ no futuro)
+.externalNativeBuild/
+.cxx/
